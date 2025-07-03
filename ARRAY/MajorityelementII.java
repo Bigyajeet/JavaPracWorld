@@ -42,3 +42,7 @@ public class MajorityelementII {
 //         return ls;
 //     }
 // }
+
+
+//optimal
+// 
