@@ -10,7 +10,7 @@ public class better {
                 for(int k=j+1;k<n;k++){
                     long sum=nums[i]+nums[j];
                     sum+=nums[k];
-                    long fouth=target-sum;
+                    long fourth=target-sum;
                     if(hashset.contains(fourth)){
                         List<Integer> temp=new ArrayList<>();
                         temp.add(nums[i]);
